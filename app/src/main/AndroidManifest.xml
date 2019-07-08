@@ -20,7 +20,7 @@
 
                 <data
                         android:host="boncuk.com"
-                        android:pathPrefix="/"
+                        android:pathPrefix="/hello"
                         android:scheme="http"/>
             </intent-filter>
         </provider>
